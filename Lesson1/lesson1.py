@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-choose = 10
-
+choose = ""
 while choose != "0":
     print()
     choose = input("Выберете номер задания 1-6, или 0 для выхода: ")
