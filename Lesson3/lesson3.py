@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/local/opt/python@3.10/bin/python3
+
 choose = "-"
 while choose != "":
     print()
